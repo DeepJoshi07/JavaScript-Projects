@@ -1,4 +1,14 @@
 /* purpul blue pink yellow */
+body{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
 .main{
     text-align: center;
     margin: auto;
