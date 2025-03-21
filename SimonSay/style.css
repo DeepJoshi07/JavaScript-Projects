@@ -1,0 +1,46 @@
+/* purpul blue pink yellow */
+.main{
+    text-align: center;
+    margin: auto;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxes{
+    
+    height: 500px;
+    width: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.boxes > div{
+    border: 5px solid black ;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.box1{
+    background-color:#7f58af ;
+}
+.box2{
+    background-color:#64c5eb ;
+}
+.box3{
+    background-color:#e84d8a ;
+}
+.box4{
+    background-color:#feb326 ;
+}
+.green{
+    background-color: green;
+}
+.white{
+    background-color: white;
+}
